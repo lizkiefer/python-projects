@@ -1,0 +1,21 @@
+ccds	refseq_gene_id	biotype	ensembl_gene_id	description	protein_sequence_len	proline_comp
+CCDS30868.1	6706	protein_coding	ENSG00000159516	small proline rich protein 2G [Source:HGNC Symbol;Acc:HGNC:11267]	73	39.73
+CCDS3540.1	10879	protein_coding	ENSG00000171201	submaxillary gland androgen regulated protein 3B [Source:HGNC Symbol;Acc:HGNC:17326]	79	39.24
+CCDS45225.1	644844	protein_coding	ENSG00000233041	proline, histidine and glycine rich 1 [Source:HGNC Symbol;Acc:HGNC:37226]	82	39.02
+CCDS30865.1	6701	protein_coding	ENSG00000196805	small proline rich protein 2B [Source:HGNC Symbol;Acc:HGNC:11262]	72	38.89
+CCDS30866.1	6704	protein_coding	ENSG00000203785	small proline rich protein 2E [Source:HGNC Symbol;Acc:HGNC:11265]	72	38.89
+CCDS34000.1	26952	protein_coding	ENSG00000109208	submaxillary gland androgen regulated protein 3A [Source:HGNC Symbol;Acc:HGNC:19216]	134	38.06
+CCDS1034.1	6700	protein_coding	ENSG00000241794	small proline rich protein 2A [Source:HGNC Symbol;Acc:HGNC:11261]	72	37.5
+CCDS30864.1	6703	protein_coding	ENSG00000163216	small proline rich protein 2D [Source:HGNC Symbol;Acc:HGNC:11264]	72	37.5
+CCDS41757.2	653247	protein_coding	ENSG00000121335	proline rich protein BstNI subfamily 2 [Source:HGNC Symbol;Acc:HGNC:9338]	416	37.26
+CCDS30867.1	6705	protein_coding	ENSG00000244094	small proline rich protein 2F [Source:HGNC Symbol;Acc:HGNC:11266]	72	36.11
+CCDS59402.1	6415	protein_coding	ENSG00000178980	selenoprotein W [Source:HGNC Symbol;Acc:HGNC:10752]	12	0.0
+CCDS44919.1	6171	protein_coding	ENSG00000229117	ribosomal protein L41 [Source:HGNC Symbol;Acc:HGNC:10354]	25	0.0
+CCDS92672.1	105372440	protein_coding	ENSG00000261341	small integral membrane protein 47 [Source:HGNC Symbol;Acc:HGNC:53452]	28	0.0
+CCDS31667.1	6588	protein_coding	ENSG00000170290	sarcolipin [Source:HGNC Symbol;Acc:HGNC:11089]	31	0.0
+CCDS41964.1	2877	protein_coding	ENSG00000176153	glutathione peroxidase 2 [Source:HGNC Symbol;Acc:HGNC:4554]	39	0.0
+CCDS46642.1	337985	protein_coding	ENSG00000206104	keratin associated protein 20-3 [Source:HGNC Symbol;Acc:HGNC:34001]	44	0.0
+CCDS86982.1	100151643	protein_coding	ENSG00000206105	keratin associated protein 20-4 [Source:HGNC Symbol;Acc:HGNC:34002]	44	0.0
+CCDS92476.1	2879	protein_coding	ENSG00000167468	glutathione peroxidase 4 [Source:HGNC Symbol;Acc:HGNC:4556]	45	0.0
+CCDS93006.1	128706666				50	0.0
+CCDS13476.1	514	protein_coding	ENSG00000124172	ATP synthase F1 subunit epsilon [Source:HGNC Symbol;Acc:HGNC:838]	51	0.0

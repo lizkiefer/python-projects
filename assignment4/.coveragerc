@@ -1,0 +1,7 @@
+[run]
+include =
+    assignment4_utils.py
+    io_utils.py
+omit =
+    test_*
+    /usr/local/lib/python3.*/*
